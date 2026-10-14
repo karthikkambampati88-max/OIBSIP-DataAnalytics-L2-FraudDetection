@@ -138,8 +138,3 @@ This project demonstrates the application of data analytics and machine learning
 - Real-time fraud prediction API
 - Model drift monitoring
 
-## Author
-
-**K Shivaram Goud**  
-Data Analytics Intern  
-B.Tech — Artificial Intelligence and Machine Learning
